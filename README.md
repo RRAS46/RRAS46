@@ -1,8 +1,10 @@
 # Welcome to Special's Tech Haven!
 👋 Hi there! I'm Special, a passionate and versatile developer with a love for all things tech. Whether it's crafting seamless mobile experiences, automating tasks with Python, designing intricate PCBs, or bringing 3D models to life, I'm always eager to explore and innovate. Dive into my projects and see what I've been up to!
 
-🚀 Skills & Technologies\n
+🚀 Skills & Technologies
+
 💻 Languages: Flutter, Python, Java
+
 🌐 Web Wizardry: HTML, CSS
 ⚙️ Scripting Maestro: Batch (BAT), VBS scripting
 🗄️ Database Guru: MySQL, Supabase
