@@ -26,7 +26,7 @@
 
 ## 📫 Let's Connect!
 
-- **✉️ Email**: special@example.com
+- **✉️ Email**: rrasgeorge46@gmail.com
 - **💼 LinkedIn**: [special-linkedin](https://www.linkedin.com/in/special/)
 - **🐦 Twitter**: [@special_dev](https://twitter.com/special_dev)
 
