@@ -27,6 +27,7 @@
 ## 📫 Let's Connect!
 
 - **✉️ Email**: rrasgeorge46@gmail.com
+- **✉️ Instagram**: [George Psarras](https://www.instagram.com/jojos__psarras/)
 
 ## 💬 Let's Collaborate!
 
