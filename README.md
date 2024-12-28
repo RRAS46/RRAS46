@@ -64,10 +64,15 @@
 
 ---
 
-## ☕ Support Me
+## ☕ Support My Work!
 
-Love my work? Consider supporting me to fuel more awesome projects!  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rras)
+If you enjoy my projects and want to see more awesome creations, consider buying me a coffee. Your support helps me stay caffeinated and motivated! 💖  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rras" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=rras&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+  </a>
+</p>
 
 ---
 
