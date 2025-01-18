@@ -83,12 +83,6 @@ If you enjoy my projects and want to see more awesome creations, consider buying
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Winner, XYZ Hackathon 2023  
-- 📜 Certified in Python (Intermediate) by XYZ Academy  
-
----
 
 ## 💬 Let's Collaborate!
 
