@@ -70,9 +70,10 @@ If you enjoy my projects and want to see more awesome creations, consider buying
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/rras" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=rras&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50" width="210">
   </a>
 </p>
+
 
 ---
 
